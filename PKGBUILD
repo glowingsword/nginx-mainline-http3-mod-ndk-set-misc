@@ -1,4 +1,4 @@
-# Maintainer: Massimiliano Torromeo <massimiliano.torromeo@gmail.com>
+# Maintainer: Andrei Gutu <glowingsword@gmail.com>
 
 _setmiscver=0.32
 _ndkver=0.3.1
